@@ -4,7 +4,7 @@ A REST API for managing a clinic — built with FastAPI, SQLAlchemy, and Postgre
 
 ## Live URL
 
-deploying on Railway: web-production-38fae.up.railway.app/docs
+deploying on Railway: https://web-production-38fae.up.railway.app/docs
 
 ---
 
